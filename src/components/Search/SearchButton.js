@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 
-const SearchButton = ({ sname, dname }) => {
+const SearchButton = ({ setResponse, sname, dname }) => {
 
 	const onSearch = async () => {
     await axios
@@ -15,7 +15,7 @@ const SearchButton = ({ sname, dname }) => {
           "X-NCP-APIGW-API-KEY": process.env.REACT_APP_NAVER_MAP_SECRET_KEY,
         },
       })
-      .then((response) => console.log(response));
+      .then((response) => setResponse(response));
   };
 
 	return (

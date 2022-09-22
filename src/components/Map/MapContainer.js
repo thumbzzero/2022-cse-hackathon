@@ -4,12 +4,12 @@ import '../../style/Map.scss'
 // import MapPractice from './MapPractice';
 import { Routes, Route } from 'react-router-dom/dist';
 
-const MapContainer = () => {
+const MapContainer = ({ response }) => {
 	const url = "namp://map?&appname=http://localhost:3000/practice"
 	return (
 		<div className='map-container'>
 			<Routes>
-				<Route path="/" element={<Map />} />
+				<Route path="/" element={<Map response={response} />} />
 				{/* <Route path="/practice" element={<MapPractice />} /> */}
 				<Route path={`${url}`} />
 			</Routes>

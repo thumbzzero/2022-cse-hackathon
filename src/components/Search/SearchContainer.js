@@ -4,7 +4,7 @@ import SearchInput from './SearchInput';
 import '../../style/Search.scss'
 import RefreshButton from './RefreshButton';
 
-const SearchContainer = () => {
+const SearchContainer = ({ setResponse }) => {
 	const [sname, setSname] = useState('');
 	const [dname, setDname] = useState('');
 
@@ -27,7 +27,7 @@ const SearchContainer = () => {
 			<SearchInput place={'도착지'} value={dname} onChange={onDnameChange} />
 			<div className='btn-container'>
 				<RefreshButton onRefresh={onRefresh} />
-				<SearchButton  sname={sname} dname={dname} />
+				<SearchButton setResponse={setResponse} sname={sname} dname={dname} />
 			</div>
 		</div>
 	);
