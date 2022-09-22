@@ -1,0 +1,32 @@
+.header-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	text-align: center;
+	height: 120px;
+	// border-bottom: solid 2px #ffd66e;
+	// border-bottom: solid 2px #eac09a;
+	border-bottom: solid 2px black;
+
+	// background-color: orange;
+
+	.logo {
+		width: 80%;
+		flex: 0.25;
+		font-weight: bold;
+		font-size: 35px;
+		cursor: pointer;
+		// background-color: yellow;
+		transition: 0.3s;
+		&:hover {
+			transform: scale(1.1);	
+			color: #F2BB13;
+		}
+	}
+
+	.explanation {
+		flex: 0.75;
+
+		// background-color: yellowgreen;
+	}
+}
