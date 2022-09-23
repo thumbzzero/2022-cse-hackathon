@@ -1,0 +1,40 @@
+.search-container {
+	text-align: center;
+	border-right: solid 2px black;
+
+	.search-input {
+		width: 80%;
+		border-radius: 5px;
+		padding: 2%;
+		font-size: large;
+		margin-top: 5px;
+	}
+
+	.btn-container {
+		margin-top: 10px;
+		display: flex;
+		justify-content: center;
+
+		.refresh-button {
+			margin-right: 30px;
+		}
+
+		.search-button {
+			margin-left: 30px;
+		}
+	}
+}
+
+button {
+	padding: 5px;
+	font-size: large;
+	width: 100px;
+	height: 40px;
+	cursor: pointer;;
+	border-radius: 5px;
+	transition: 0.3s;
+	
+	&:hover {
+		background-color: #F2BB13;
+	}
+}

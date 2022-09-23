@@ -1,0 +1,26 @@
+.header-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	text-align: center;
+	height: 120px;
+	border-bottom: solid 2px black;
+
+	.logo {
+		width: 80%;
+		flex: 0.25;
+		font-weight: bold;
+		font-size: 35px;
+		cursor: pointer;
+		transition: 0.2s;
+		&:hover {
+			transform: scale(1.1);	
+			color: #F2BB13;
+			text-shadow: 2px 2px 2px black;
+		}
+	}
+
+	.explanation {
+		flex: 0.75;
+	}
+}
