@@ -8,8 +8,7 @@ import './style/App.scss'
 const App = () => {
   const [response, setResponse] = useState({});
   useEffect(() => { 
-    // console.log(`길찾기 결과:`)
-    // console.log(response)
+
   }, [response])
   return (
     <div>

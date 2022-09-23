@@ -4,7 +4,7 @@ import '../../style/Footer.scss'
 const Footer = () => {
 	return (
 		<div className='footer'>
-			<p className='footer-content'>Bank Tree</p>
+			<p className='footer-content'>© 2022 CSE HACKATHON - BANK TREE</p>
 		</div>
 	);
 };

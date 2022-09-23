@@ -22,5 +22,13 @@
 
 	.explanation {
 		flex: 0.75;
+
+		.red {
+			background-color: #FF0000;
+		}
+
+		.yellow {
+			background-color: #F2BB13;
+		}
 	}
 }
