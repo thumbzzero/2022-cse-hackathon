@@ -34,3 +34,9 @@ dependencies {
 tasks.named('test') {
     useJUnitPlatform()
 }
+
+jar {
+    manifest {
+        enabled = false
+    }
+}
