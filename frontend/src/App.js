@@ -7,15 +7,13 @@ import './style/App.scss'
 
 const App = () => {
   const [response, setResponse] = useState({});
-  useEffect(() => { 
-
-  }, [response])
+  const [success, setSuccess] = useState(true);
   return (
     <div>
       <HeaderContainer />
       <div className='content-container'>
-        <SearchContainer response={response} setResponse={setResponse} />
-        <MapContainer response={response} />
+        <SearchContainer response={response} setResponse={setResponse} success={success} />
+        <MapContainer response={response} setSuccess={setSuccess} />
       </div>
       <Footer />
     </div>
