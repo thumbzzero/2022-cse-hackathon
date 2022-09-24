@@ -2,18 +2,18 @@
 
 ### "김오엄정"
 
-- 컴퓨터학부20학번 김은정
-- 컴퓨터학부20학번 오영선
-- 컴퓨터학부20학번 엄지영
-- 컴퓨터학부20학번 정다혜
+- 컴퓨터학부 20학번 김은정
+- 컴퓨터학부 20학번 오영선
+- 컴퓨터학부 20학번 엄지영
+- 컴퓨터학부 20학번 정다혜
 
 ### Member's Role
 
-**프론트** : 엄지영
+**Front-End** : 엄지영
 
-**백** : 오영선
+**Back-End** : 오영선
 
-**데이터** : 김은정, 정다혜
+**Data** : 김은정, 정다혜
 
 **문서 및 영상** : 김은정, 정다혜
 
@@ -30,11 +30,11 @@
 
 ### Front-End
 
-java, java spring, gradle, mysql
+javascript, react, scss
 
 ### Back-End
 
-javascript, react, scss
+java, java spring, gradle, mysql
 
 ### ETC
 
