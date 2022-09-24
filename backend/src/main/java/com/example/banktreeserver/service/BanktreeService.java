@@ -20,7 +20,7 @@ public class BanktreeService {
 
     public List<Banktree> banktreeList() {
       //test code
-      //  banktreeRepository.save(new Banktree(1L));
+        banktreeRepository.save(new Banktree(1L));
       //  banktreeRepository.save(new Banktree(2L));
         List<Banktree> banktrees = banktreeRepository.findAll();
 

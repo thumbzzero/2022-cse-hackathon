@@ -24,10 +24,14 @@ public class Banktree {
     private float goalY;
     private float density;
 
-//    @Builder
-//    public Banktree(Long id){
-//        this.id = id;
-//        this.startName="공평네거리";
-//        this.goalName="공평삼거리";
-//    }
+    @Builder
+    public Banktree(Long id){
+        this.id = id;
+        this.startName="testcase1";
+        this.goalName="testcase1";
+        this.startX= (float) 1234.56;
+        this.startY= (float) 1234.56;
+        this.goalX= (float) 1234.566;
+        this.goalY= (float) 1234.566;
+    }
 }
