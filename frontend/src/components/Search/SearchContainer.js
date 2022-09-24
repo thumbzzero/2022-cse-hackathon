@@ -4,7 +4,7 @@ import SearchInput from './SearchInput';
 import '../../style/Search.scss'
 import RefreshButton from './RefreshButton';
 
-const SearchContainer = ({ setResponse }) => {
+const SearchContainer = ({ setResponse, success }) => {
 	const [sname, setSname] = useState('');
 	const [dname, setDname] = useState('');
 
@@ -28,6 +28,12 @@ const SearchContainer = ({ setResponse }) => {
 			<div className='btn-container'>
 				<RefreshButton onRefresh={onRefresh} />
 				<SearchButton setResponse={setResponse} sname={sname} dname={dname} />
+			</div>
+			{success ? null : <div className='not-found'>해당 경로를 찾을 수 없습니다.</div>}
+			<div className='notice'>
+				※출발지와 도착지를 도로명 주소로 넣어주세요.※
+				<br />※유효한 출발지와 도착지를 넣어야 경로를 찾을 수 있습니다.※
+				<br />ex) 출발지와 도착지가 같으면 경로를 찾을 수 없습니다.
 			</div>
 		</div>
 	);

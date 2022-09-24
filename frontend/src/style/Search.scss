@@ -1,6 +1,7 @@
 .search-container {
 	text-align: center;
 	border-right: solid 2px black;
+	position: relative;
 
 	.search-input {
 		width: 80%;
@@ -12,6 +13,20 @@
 		::placeholder {
 			color: #F2BB13;
 		}
+	}
+
+	.not-found {
+		text-align: center;
+		color: tomato;
+		margin-top: 30px;
+	}
+
+	.notice {
+		width: 100%;
+		text-align: center;
+		position: absolute;
+		bottom: 30px;
+		color: #F2BB13;
 	}
 
 	.btn-container {
