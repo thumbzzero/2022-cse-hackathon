@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/bacnktreeserver" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/backend/gradle-getting-started" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gradle-getting-started" vcs="Git" />
   </component>
