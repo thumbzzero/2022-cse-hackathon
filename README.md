@@ -70,9 +70,13 @@
 [![Video Label](https://user-images.githubusercontent.com/94179998/192135526-754c49ca-17b9-4b7b-9042-6099a3fab714.png)](https://youtu.be/pNspXdlSzlI)
 
 [00:02 도입부](https://www.youtube.com/watch?v=pNspXdlSzlI&t=2s)
-[00:18 시연영상 시작](https://www.youtube.com/watch?v=pNspXdlSzlI&t=18s)
+
+[00:18 시연영상 시작](https://www.youtube.com/watch?v=pNspXdlSzlI&t=18s) 
+
 [00:30 학교 근처 은행나무](https://www.youtube.com/watch?v=pNspXdlSzlI&t30s)
+
 [00:33 길찾기](https://www.youtube.com/watch?v=pNspXdlSzlI&t=33s)
+
 [00:53 유효하지 않은 경로 처리](https://www.youtube.com/watch?v=pNspXdlSzlI&t=53s)
 
 
