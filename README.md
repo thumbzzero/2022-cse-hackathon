@@ -6,32 +6,27 @@
 - 컴퓨터학부 20학번
 - Front-End, Leader
 - <a href="https://github.com/thumbzzero/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-
+<br/> <br/> 
 ### 오영선
 - 컴퓨터학부 20학번
 - Back-End
 - <a href="https://github.com/oyoungsun/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-
+<br/> <br/> 
 ### 김은정
 - 컴퓨터학부 20학번
 - Data
 - <a href="https://github.com/ezzkimm/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-
+<br/> <br/> 
 ### 정다혜
 - 컴퓨터학부 20학번
 - Data
 - <a href="https://github.com/JeongDaH/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-
+<br/> <br/> <br/> 
 # 누가 내 발에 똥쌌어?
 
-> 자유세션 - 가로수데이터를 활용하여 은행나무 위치를 표시해 주는 길찾기 지도
-> 
-
-![Untitled](2022-cse-hackathon%201d130d5551914eac840d938c59702d04/Untitled.png)
+> **자유세션 - 가로수데이터를 활용하여 은행나무 위치를 표시해 주는 길찾기 지도**
+>
+![KakaoTalk_Photo_2022-09-25-16-36-01](https://user-images.githubusercontent.com/94179998/192133299-24729711-71ef-4648-a882-54345d2ee7fd.jpeg)
 
 길을 걷다 보면 은행나무를 쉽게 찾을 수 있다. 가을철이 되면 은행나무에는 은행 열매가 열린다. 은행나무는 공해에 강하고 공기 정화 능력이 좋다. 또한 병충해 걱정이 없으며 은행 열매는 식용으로 사용할 수 있어 과거 가로수로 많이 사용되었다.
 
@@ -61,9 +56,7 @@
 - 대구 지역 길찾기 Map
 
 ### 차별점 :
-
-
-
+<br/><br/><br/> 
 # 프로젝트에 활용 된 기술
 
 ### Front-End
@@ -74,6 +67,14 @@
 
 </div>
 
+![KakaoTalk_Photo_2022-09-25-16-52-26](https://user-images.githubusercontent.com/94179998/192133800-1c90d9dd-188a-4da1-9af3-1ed11eb4f882.jpeg)
+메인화면에 접속하면 경북대학교로 포커스가 맞춰지고, 대구의 은행나무 거리를 노란색으로 표시됩니다.
+
+![KakaoTalk_Photo_2022-09-25-16-52-30](https://user-images.githubusercontent.com/94179998/192133795-f6bf41c3-b166-442d-b06e-81d8681ac6f8.jpeg)
+사용자가 출발/도착 도로명 주소를 입력하면 API를 통해 해당 주소를 위도, 경도 정보로 변환하여 네이버 Map API를 통해 경로 좌표를 받아와 polyline을 표시합니다.
+
+
+
 ### Back-End
 
 <div align="left">
@@ -82,10 +83,23 @@
 
 </div>
 
+
+<img width="593" alt="KakaoTalk_Photo_2022-09-25-16-42-01" src="https://user-images.githubusercontent.com/94179998/192133486-46600234-7b47-47a9-b6d4-248f587cc521.png">
+메인화면에 접속하면 서버에 연결된 jawsDB에 Table을 생성, 가로수데이터를 넣고 은행나무 길(출발 위치-도착 위치)를 반환합니다.
+
+
+<img width="515" alt="KakaoTalk_Photo_2022-09-25-16-42-05" src="https://user-images.githubusercontent.com/94179998/192133488-f79c8361-375d-45a5-ae7d-eb2223db1013.png">
+사용자가 출발/도착 도로명 주소를 입력하면 KAKAO API를 불러와 주소를 매핑하고, API결과와 주소를 반환합니다.
+
+
+
+
+
+
 ### ETC
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](<https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>) ![Google](<https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white>) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](<https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>) ![GoogleAPI](<https://img.shields.io/badge/google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white>) ![kakaoAPI](<https://img.shields.io/badge/kakao%20API-ffcd00.svg?style=for-the-badge&logo=kakao&logoColor=000000>) ![NAVERAPI](https://img.shields.io/badge/NAVER%20API-2DB400.svg?style=for-the-badge&logo=naver&logoColor=fff)
 
 </div>
