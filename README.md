@@ -1,3 +1,15 @@
+# 2022-cse-hackathon
+
+- [ ]  팀명
+- [x]  제출 세션 및 주제
+- [x]  프로젝트 한 줄 설명
+- [ ]  프로젝트에 대한 설명 (주제, 목적, 용도, 영향)
+- [ ]  활용 기술
+    
+    ![스크린샷 2022-09-24 오후 11.15.50.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06a2c234-d710-4c71-9554-6f058aefa702/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_11.15.50.png)
+    
+- [ ]  시연 영상
+
 # Team
 
 ### "김오엄정"
@@ -74,21 +86,21 @@ Data
 
 javascript, react, scss
 
-`![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)`
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-`![React](<https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB>)`
+![React](<https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB>)
 
 ### Back-End
 
 java, java spring, gradle, mysql
 
-`![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)`
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-`![Spring](<https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white>)`
+![Spring](<https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white>)
 
-`![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)`
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-`![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)`
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 java Spring으로 백엔드 서비스 개발
 
@@ -98,9 +110,9 @@ python pandas
 
 googleApi
 
-`![Pandas](<https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>)`
+![Pandas](<https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>)
 
-`![Google](<https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white>)` 
+![Google](<https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white>) 
 
 ### ETC
 
