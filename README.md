@@ -1,30 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&&section=header)
 
 # Team - “김오엄정”
 
 ### 엄지영
-
 - 컴퓨터학부 20학번
 - Front-End, Leader
 - <a href="https://github.com/thumbzzero/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### 오영선
 
+### 오영선
 - 컴퓨터학부 20학번
 - Back-End
 - <a href="https://github.com/oyoungsun/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### 김은정
 
+### 김은정
 - 컴퓨터학부 20학번
 - Data
 - <a href="https://github.com/ezzkimm/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### 정다혜
 
+### 정다혜
 - 컴퓨터학부 20학번
 - Data
 - <a href="https://github.com/JeongDaH/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 
 # 누가 내 발에 똥쌌어?
 
