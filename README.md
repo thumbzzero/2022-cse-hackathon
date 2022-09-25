@@ -77,10 +77,10 @@
 </div>
 
 ![KakaoTalk_Photo_2022-09-25-16-52-26](https://user-images.githubusercontent.com/94179998/192133800-1c90d9dd-188a-4da1-9af3-1ed11eb4f882.jpeg)
-메인화면에 접속하면 경북대학교로 포커스가 맞춰지고, 대구의 은행나무 거리를 노란색으로 표시됩니다.
+메인화면에 접속하면 경북대학교로 포커스가 맞춰지고, 은행나무의 위치가 노란색으로 표시된다.
 
 ![KakaoTalk_Photo_2022-09-25-16-52-30](https://user-images.githubusercontent.com/94179998/192133795-f6bf41c3-b166-442d-b06e-81d8681ac6f8.jpeg)
-사용자가 출발/도착 도로명 주소를 입력하면 API를 통해 해당 주소를 위도, 경도 정보로 변환하여 네이버 Map API를 통해 경로 좌표를 받아와 polyline을 표시합니다.
+사용자가 출발지와 도착지의 도로명 주소를 입력하면 API를 통해 해당 주소를 위도, 경도 정보로 변환하고 네이버 Map API를 통해 경로 좌표를 받아와 polyline을 표시한다.
 
 
 
@@ -94,11 +94,11 @@
 
 
 <img width="593" alt="KakaoTalk_Photo_2022-09-25-16-42-01" src="https://user-images.githubusercontent.com/94179998/192133486-46600234-7b47-47a9-b6d4-248f587cc521.png">
-메인화면에 접속하면 서버에 연결된 jawsDB에 Table을 생성, 가로수데이터를 넣고 은행나무 길(출발 위치-도착 위치)를 반환합니다.
+메인화면에 접속하면 서버에 연결된 jawsDB에 Table을 생성, 가로수데이터를 넣고 은행나무 길(출발 위치-도착 위치)를 반환한다.
 
 
 <img width="515" alt="KakaoTalk_Photo_2022-09-25-16-42-05" src="https://user-images.githubusercontent.com/94179998/192133488-f79c8361-375d-45a5-ae7d-eb2223db1013.png">
-사용자가 출발/도착 도로명 주소를 입력하면 KAKAO API를 불러와 주소를 매핑하고, API결과와 주소를 반환합니다.
+사용자가 출발/도착 도로명 주소를 입력하면 KAKAO API를 불러와 주소를 매핑하고, API결과와 주소를 반환한다.
 
 
 
@@ -110,5 +110,17 @@
 <div align="left">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](<https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>) ![GoogleAPI](<https://img.shields.io/badge/google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white>) ![kakaoAPI](<https://img.shields.io/badge/kakao%20API-ffcd00.svg?style=for-the-badge&logo=kakao&logoColor=000000>) ![NAVERAPI](https://img.shields.io/badge/NAVER%20API-2DB400.svg?style=for-the-badge&logo=naver&logoColor=fff)
-
 </div>
+
+<img width="884" alt="스크린샷 2022-09-25 오후 5 14 46" src="https://user-images.githubusercontent.com/94179998/192134410-76ff8b7f-defd-48d4-880a-bcd71de11c38.png">
+pandas를 이용하여 csv파일을 읽어와 위치를 위도 경도 좌표로 변환하였다.  
+<br/> <br/> 
+
+<img width="1440" alt="스크린샷 2022-09-25 오후 5 12 15" src="https://user-images.githubusercontent.com/94179998/192134347-9ba9bbd4-1a24-48a0-bb07-b1e3c3abe00d.png">
+변환한 좌표 중 이상값이 있을 경우 제거 하였다.
+
+
+>
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=random&height=200&section=footer&text=감사합니다&fontSize=50)
