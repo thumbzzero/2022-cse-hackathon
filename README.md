@@ -65,6 +65,10 @@
 보통 맛집 지도나 여행 지도와 같이 특정한 목적을 가지는 지도의 경우 위치만 마킹 되어있다.
 
 하지만, 은행나무 지도의 경우 길찾기 기능을 제공한다.
+
+### 실행 영상 :
+[![Video Label](https://img.youtu.be/pNspXdlSzlI/0.jpg)](https://youtu.be/pNspXdlSzlI)
+
 <br/><br/><br/> 
 # 프로젝트에 활용 된 기술
 
