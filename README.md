@@ -67,7 +67,9 @@
 하지만, 은행나무 지도의 경우 길찾기 기능을 제공한다.
 
 ### 실행 영상 :
-[![Video Label](https://img.youtu.be/pNspXdlSzlI/0.jpg)](https://youtu.be/pNspXdlSzlI)
+[![Video Label](https://user-images.githubusercontent.com/94179998/192135526-754c49ca-17b9-4b7b-9042-6099a3fab714.png)](https://youtu.be/pNspXdlSzlI)
+
+{% include video.html id="pNspXdlSzlI" %}  
 
 <br/><br/><br/> 
 # 프로젝트에 활용 된 기술
@@ -103,6 +105,9 @@
 
 <img width="515" alt="KakaoTalk_Photo_2022-09-25-16-42-05" src="https://user-images.githubusercontent.com/94179998/192133488-f79c8361-375d-45a5-ae7d-eb2223db1013.png">
 사용자가 출발/도착 도로명 주소를 입력하면 KAKAO API를 불러와 주소를 매핑하고, API결과와 주소를 반환한다.
+
+백엔드 서버
+https://bacnktreeserver.herokuapp.com/
 
 
 
