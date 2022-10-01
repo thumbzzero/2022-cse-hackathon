@@ -69,17 +69,18 @@
 하지만, 은행나무 지도의 경우 길찾기 기능을 제공한다.
 
 ### 실행 영상 :
-[![Video Label](https://user-images.githubusercontent.com/94179998/192135526-754c49ca-17b9-4b7b-9042-6099a3fab714.png)](https://youtu.be/pNspXdlSzlI)
+[![Video Label](https://user-images.githubusercontent.com/94179998/192135526-754c49ca-17b9-4b7b-9042-6099a3fab714.png)](https://youtu.be/uaULmFi3WdE)
 
-[00:02 도입부](https://www.youtube.com/watch?v=pNspXdlSzlI&t=2s)
 
-[00:18 시연영상 시작](https://www.youtube.com/watch?v=pNspXdlSzlI&t=18s) 
+[00:02 도입부](https://www.youtube.com/watch?v=uaULmFi3WdE&t=2s)
 
-[00:30 학교 근처 은행나무](https://www.youtube.com/watch?v=pNspXdlSzlI&t30s)
+[00:18 시연영상 시작](https://www.youtube.com/watch?v=uaULmFi3WdE&t=18s) 
 
-[00:33 길찾기](https://www.youtube.com/watch?v=pNspXdlSzlI&t=33s)
+[00:30 학교 근처 은행나무](https://www.youtube.com/watch?v=uaULmFi3WdE&t30s)
 
-[00:53 유효하지 않은 경로 처리](https://www.youtube.com/watch?v=pNspXdlSzlI&t=53s)
+[00:33 길찾기](https://www.youtube.com/watch?v=uaULmFi3WdE&t=33s)
+
+[00:53 유효하지 않은 경로 처리](https://www.youtube.com/watch?v=uaULmFi3WdE&t=53s)
 
 
 
